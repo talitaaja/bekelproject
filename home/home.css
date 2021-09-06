@@ -1,0 +1,183 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.background1 {
+    background-image: url(../image/tambourine-970343_1920.jpg);
+    height: 900px;
+    left: 0px;
+    top: 0px;
+    opacity: 0.9;
+}
+
+.header-logo {
+    float: left;
+    position: relative;
+    width: 250px;
+    height: auto;
+    left: -17px;
+    top: -44px;
+}
+
+.header-list {
+    padding-left: 200px;
+}
+
+.header-list li {
+    float: left;
+    padding: 72px 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.main {
+    padding: 250px 80px;
+}
+
+.copy-container h1 {
+    /* position: absolute;
+    width: 844px;
+    height: 236px;
+    left: 315px;
+    top: 315px; */
+
+    font-family: Sofia;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 113px;
+    text-align: center;
+
+    color: #000000;
+}
+
+/* ========================================================================= */
+
+.background2 {
+    background-image: url(../image/chimarrao-5829332_1920.jpg);
+    height: 1500px;
+    background-size: cover;
+
+}
+
+.kotak1 {
+    position: relative;
+    background-color: #E2C58C;
+    width: 786px;
+    height: 370px;
+    left: 100px;
+    top: 51px;
+    opacity: 0.85;
+    border-radius: 25px;
+
+}
+
+.kotak1 p {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.Bacaselengkapnya p {
+    float: right;
+    margin-top: 10px;
+    text-decoration: underline;
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+}
+
+.kotak1 h2 {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+.kotak2 {
+    position: relative;
+    background-color: #E2C58C;
+    width: 786px;
+    height: 370px;
+    left: 400px;
+    top: 250px;
+    opacity: 0.85;
+    border-radius: 25px;
+}
+
+.kotak2 p {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.kotak2 h2 {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    font-weight: bolder;
+}
+
+.kotak3 {
+    position: relative;
+    background-color: #E2C58C;
+    width: 786px;
+    height: 370px;
+    left: 100px;
+    top: 350px;
+    opacity: 0.85;
+    border-radius: 25px;
+}
+
+.kotak3 p {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+}
+
+.kotak3 h2 {
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: 300;
+    font-size: 36px;
+    line-height: 47px;
+    color: #824814;
+    padding-left: 5%;
+    padding-right: 5%;
+    text-align: justify;
+    font-weight: bolder;
+}

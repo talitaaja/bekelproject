@@ -1,0 +1,76 @@
+body {
+    background-image: url(../image/bg\ home\ 1.jpeg);
+    background-size: cover;
+}
+
+.header-logo {
+    float: left;
+    position: relative;
+    width: 250px;
+    height: auto;
+    left: -17px;
+    top: -44px;
+}
+
+.header-list {
+    padding-left: 200px;
+}
+
+.header-list li {
+    float: left;
+    padding: 72px 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.main {
+    height: 150px;
+    width: 1000px;
+    /* opacity: 50%; */
+}
+
+.Aceh {
+    position: relative;
+    width: 250px;
+    height: 193px;
+    left: 100px;
+    top: 10px;
+}
+
+img.NAD {
+    position: relative;
+    width: 250px;
+    height: 193px
+}
+
+h3 {
+    color: white;
+    text-align: center;
+}
+
+.sumaterautara {
+    position: relative;
+    width: 250px;
+    height: 193px;
+    left: 500px;
+    top: 10px;
+}
+
+img.sumut {
+    width: 250px;
+    height: 193px
+}
+
+.sumaterabarat {
+    position: relative;
+    width: 250px;
+    height: 193px;
+    left: 900px;
+    top: 15px;
+}
+
+img.sumbar {
+    width: 250px;
+    height: 193px
+}

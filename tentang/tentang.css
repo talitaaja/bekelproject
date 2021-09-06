@@ -1,0 +1,53 @@
+body {
+    background-image: url(../image/bgabout\ 2_.jpeg);
+    background-size: cover;
+}
+
+.header-logo {
+    float: left;
+    position: relative;
+    width: 250px;
+    height: auto;
+    left: -17px;
+    top: -44px;
+}
+
+.header-list {
+    padding-left: 200px;
+}
+
+.header-list li {
+    float: left;
+    padding: 72px 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.main {
+    padding: 100px 80px;
+}
+
+.copy-container {
+    width: 1100px;
+    height: 672px;
+    left: 200px;
+    top: 1269px;
+    background: #BDBCB8;
+    ;
+    border-radius: 64px;
+    opacity: 60%;
+}
+
+.copy-container h1 {
+    margin-top: 150px;
+    font-size: 80px;
+    text-align: center;
+}
+
+.copy-container h2 {
+    font-size: 30px;
+    text-align: justify;
+    padding-left: 20px;
+    padding-right: 20px;
+}

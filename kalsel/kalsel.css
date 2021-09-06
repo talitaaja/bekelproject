@@ -1,0 +1,73 @@
+body {
+    background-image: url("../image/guitar\ bg.jpg");
+    background-size: cover;
+    height: 1000px;
+}
+
+.header {
+    height: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px;
+}
+
+.header-logo {
+    float: left;
+    position: relative;
+    height: 200px;
+    /* width: 250px; */
+    left: -17px;
+    top: -44px;
+}
+
+.header-list {
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 220px;
+}
+
+.header-list li {
+    float: left;
+    padding: 44px 20px;
+    list-style: none;
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.main {
+    height: 500px;
+    width: auto;
+    text-align: center;
+    /* margin-top: 0px;
+    margin-bottom: 0px; */
+}
+
+h1 {
+    /* margin: 20px 20px 20px 20px; */
+    /* padding: 2px 2px 2px 2px; */
+    text-align: center;
+    position: relative;
+    width: 823px;
+    height: 81px;
+    /* right: 50%; */
+    left: 110px;
+}
+
+.copy-container {
+    text-align: center;
+    width: 1100px;
+    height: 300px;
+    margin-left: 80px;
+    top: 1269px;
+    background: burlywood;
+    ;
+    border-radius: 64px;
+    opacity: 60%;
+}
+
+.copy-container h2 {
+    text-align: justify;
+    padding-top: 80px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
