@@ -1,76 +1,75 @@
 body {
-    background-image: url(../image/bg\ home\ 1.jpeg);
+    background-image: url("../image/guitar\ bg.jpg");
     background-size: cover;
+    height: 1000px;
+}
+
+.header {
+    height: 150px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding: 0px 0px;
 }
 
 .header-logo {
     float: left;
     position: relative;
-    width: 250px;
-    height: auto;
+    height: 200px;
+    /* width: 250px; */
     left: -17px;
     top: -44px;
 }
 
 .header-list {
-    padding-left: 200px;
+    padding-top: 0px;
+    margin-top: 0px;
+    padding-left: 220px;
 }
 
 .header-list li {
     float: left;
-    padding: 72px 20px;
+    padding: 44px 20px;
     list-style: none;
     font-size: 20px;
     font-weight: bolder;
 }
 
-.main {
-    height: 150px;
+.baris1 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
     width: 1000px;
-    /* opacity: 50%; */
 }
 
-.Aceh {
-    position: relative;
-    width: 250px;
-    height: 193px;
-    left: 100px;
-    top: 10px;
+.baris2 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
+    width: 1000px;
 }
 
-img.NAD {
-    position: relative;
-    width: 250px;
-    height: 193px
+.baris3 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
+    width: 1000px;
 }
 
-h3 {
-    color: white;
-    text-align: center;
+.baris4 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
+    width: 1000px;
 }
 
-.sumaterautara {
-    position: relative;
-    width: 250px;
-    height: 193px;
-    left: 500px;
-    top: 10px;
-}
-
-img.sumut {
-    width: 250px;
-    height: 193px
-}
-
-.sumaterabarat {
-    position: relative;
-    width: 250px;
-    height: 193px;
-    left: 900px;
-    top: 15px;
-}
-
-img.sumbar {
-    width: 250px;
-    height: 193px
+.baris5 {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+    padding-left: 100px;
+    width: 1000px;
 }
